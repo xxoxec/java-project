@@ -7,6 +7,10 @@ public class Codeup1020 {
         Scanner sc = new Scanner(System.in);
         String x = sc.next();
         String[] y = x.split("-");
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2week-2day
         System.out.print(y[0] + y[1]);
 
     }
