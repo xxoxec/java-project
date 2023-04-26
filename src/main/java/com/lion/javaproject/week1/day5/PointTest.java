@@ -24,5 +24,6 @@ public class PointTest {
         System.out.printf("xy가 같은지? %s\n", p3.isSameXy());
 
 
+
     }
 }
