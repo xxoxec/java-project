@@ -8,5 +8,7 @@ public class Codeup1053 {
         int val1 = sc.nextInt();
 
         System.out.println(val1 == 0 ? 1 : 0);
+
+        // System.out.printf("%d%n", sc.nextInt() == 1 ? 0 : 1);
     }
 }
