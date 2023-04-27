@@ -12,5 +12,10 @@ public class Codeup1056 {
         } else {
             System.out.print(0);
         }
+
+//        int val1 = 1;
+//        int val2 = 0;
+//        boolean result = val1 != val2;
+//        System.out.printf("%d%n", result ? 1 : 0);
     }
 }
