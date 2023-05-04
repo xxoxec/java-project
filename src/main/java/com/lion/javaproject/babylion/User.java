@@ -15,13 +15,15 @@ public class User {
         System.out.println(name);
     }
 
-    public void isAdult() {
-        if(age >= 18) {
-
-            System.out.println("성인입니다.");
-        } else {
-            System.out.println("아기입니다.");
-        }
+//    public void isAdult() {
+//        if(age >= 18) {
+//
+//            System.out.println("성인입니다.");
+//        } else {
+//            System.out.println("아기입니다.");
+//        }
+//    }
+    public boolean isAdult() {
+        return age >= 18;
     }
-
 }
